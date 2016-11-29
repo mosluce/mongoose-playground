@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony_async_await server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "mongoose": "^4.7.0"
+  }
+}
